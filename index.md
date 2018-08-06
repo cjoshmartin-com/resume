@@ -41,11 +41,11 @@ Corporate Experience
 May – Aug. 2018
 :   *<strong>Software Engineering Intern</strong> for [Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
+    
+    * Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
 
-    * Performed TDD and wrote acceptance testing using Cypress, Mocha, Chai, Enzyme, and Istanbul
-    * Created pull requests and actively participated in code reviews on Github Enterprise
-    * Helped bring a React application to Beta as well as implemented a state manager (MobX) into production
-    * Wrote services to make RESTful calls to a Java endpoint
+    * Ensured code quality by learning/practicing Test Driven Development (TDD), writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise
+
     * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment)
 
 July - Oct. 2017
