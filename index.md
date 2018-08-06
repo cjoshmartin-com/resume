@@ -41,33 +41,24 @@ Corporate Experience
 May – Aug. 2018
 :   *<strong>Software Engineering Intern</strong> for [Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
+    
+    * Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
 
-    * Performed TDD and wrote acceptance testing using Cypress, Mocha, Chai, Enzyme, and Istanbul
-    * Created pull requests and actively participated in code reviews on Github Enterprise
-    * Helped bring a React application to Beta as well as implemented a state manager (MobX) into production
-    * Wrote services to make RESTful calls to a Java endpoint
+    * Ensured code quality by learning/practicing Test Driven Development (TDD), writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise
+
     * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment)
 
 July - Oct. 2017
 :   *<strong>Software Engineering Intern</strong> with
     IU School Medicine Department of Radiology and Imaging Sciences* (Indianapolis, Indiana)
-
-     * Build interfaces for the Doctor, Research Students, and Radiology department in Ruby on Rails, Vagrant and Puppet
-     * Supplied desktop support by means of imaging and deploying computers
-
+    
+     * Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
+    
 May 2016 - Apr. 2017
 :   *<strong>Software Quality Assurance Intern</strong> at [CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
 
-     * Wrote automation scripts to test CourseNetworking's UI using Node.js (JavaScript), nightwatch.js (an end to end testing framework) and Selenium Web Driver.
-     * Worked on a collaborative team, made weekly reports, and met weekly deadlines for scripts.
-     * Wrote functions that enabled writing test with nightwatch.js easier and wrote documentation on how to use these functions for future users.
-
-
-Nov. 2015 - May 2016
-:   *<strong>Digital Job Board Development Specialist Intern</strong> at Indiana University School of Dentistry* (Indianapolis, Indiana)
-
-     * Designed email to be backwards compatible with other email clients and be responsive to media queries. 
+     * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
 
 Selected Projects
 ----------------------------------
