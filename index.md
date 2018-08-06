@@ -58,12 +58,7 @@ May 2016 - Apr. 2017
 :   *<strong>Software Quality Assurance Intern</strong> at [CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
 
-     * Wrote automation scripts to test CourseNetworking's UI using Node.js (JavaScript), nightwatch.js (an end to end testing framework) and Selenium Web Driver.
-     * Worked on a collaborative team, made weekly reports, and met weekly deadlines for scripts.
-     * Wrote functions that enabled writing test with nightwatch.js easier and wrote documentation on how to use these functions for future users.
-
-
-
+     * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
 
 Selected Projects
 ----------------------------------
