@@ -106,7 +106,7 @@ Expert
 :   C++, JavaScript
 
 Proficient
-:   Python, Bash, Golang, Java
+:   Python, Bash, Golang, Java, Matlab
 
 Prior Experience
 :   Ruby On Rails, Assumbly (HC12), VHDL
