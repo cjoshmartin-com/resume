@@ -15,6 +15,10 @@ body {
     padding: 10px 10px 10px 10px;
 }
 
+h1.title {
+    display: none;
+}
+
 /* Title of the resume */
 h1 {
     font-size: 55px;
@@ -26,6 +30,7 @@ h1 {
 /* Titles of categories */
 h2 {
     color: #397249;
+    margin-top: 0;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -46,6 +51,7 @@ dt {
 }
 dd {
     margin-left: 17%;
+    padding-bottom: 1rem;
 }
 p {
     margin-top:0;
@@ -72,4 +78,16 @@ a:hover, a:active {
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
+}
+
+ul {
+    padding-left: 1rem;
+    margin: 0;
+}
+ul a {
+ max-width: 2rem;
+}
+
+*, ::after, ::before {
+    box-sizing: content-box;
 }

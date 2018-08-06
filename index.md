@@ -1,3 +1,9 @@
+---
+title: Resume
+header-includes:
+    <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
+---
+
 <div class="container">
 <div class="row">
 <div class="header col">
@@ -6,7 +12,7 @@ Josh Martin
 
 ----
 
-> <contact@cjoshmartin.com> • (317) 296-4588 • @cjoshmartin\
+> [cjoshmartin.com](https://www.cjoshmartin.com) • <contact@cjoshmartin.com> • (317) 296-4588 • [github.com/cjoshmartin](https://www.github.com/cjoshmartin)\
 
 ----
 </div>
@@ -23,6 +29,7 @@ Dec 2019
 :   *B.S in Computer Engineering from Purdue University*
     (Indianapolis, Indiana)
 
+    * Minors in Computer Science and Mathematics
 
 Aug 2016
 :   *Frontend Certification from Freecodecamp*
@@ -62,16 +69,48 @@ Nov. 2015 - May 2016
 
      * Designed email to be backwards compatible with other email clients and be responsive to media queries. 
 
+Selected Projects
+----------------------------------
+
+PlentyFull (2018 Indy Civic Hack)
+:   [https://github.com/Quick2Serve/PlentyFull](https://github.com/Quick2Serve/PlentyFull)
+
+    An app written in React Native to make it easier for people who are need of food to be able to find a food pantry.
+
+    **Technologies**: React Native, React Navigation, Expo, lodash, axios
+
+
+Personal Website
+:   [https://cjoshmartin.com](https://cjoshmartin.com)
+
+    This is a GitHub pages website I use to sharpen my skills and showcase myself. This site changes as I change. Semantic versioning using Travis-CI and Semantic-Release.
+    
+    **Technologies**: React, Firebase, re-base, Travis-CI, semantic-release, Bootstrap, Semantic-UI, moment, marked, axios
+
 </div>
 
 <div class="sidebar col-md-3 order-1">
 
-Selected Projects
+Community Engagement
 ----------------------------------
 
-project
-:   this is a project where I did project things 
+*Indy Open Tech Study Hall (Meetup)*\
 
+August 2017 – Present\
+    Assistant Organizer
+
+* Help locate locations and sponsors for events
+* Promote events on social media and work with other Organizers
+
+*Design Patterns in React (Talk)*\	  
+January 2018
+
+* [http://cjoshmartin.com/design-patterns-react/](http://cjoshmartin.com/design-patterns-react/)
+
+*Client-side Applications with Firebase and React.js (Talk)*\
+August 2017
+
+ * [http://slides.com/joshuamartin/deck#/](http://slides.com/joshuamartin/deck#/)
 
 Languages
 ----------------------------------
