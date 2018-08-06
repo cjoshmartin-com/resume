@@ -103,13 +103,18 @@ Languages
 ----------------------------------
 
 Expert
-:   C++, JavaScript
+:   C++, C, JavaScript
 
 Proficient
-:   Python, Bash, Golang, Java, Matlab
+:   Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS
 
 Prior Experience
 :   Ruby On Rails, Assumbly (HC12), VHDL
+
+Technologies
+----------------------------------
+
+Node.js, React, Firebase, MongoDB, UDP and Sockets Programming, Arduino, jQuery, Git, Docker, Virtualbox, Bootstrap,Express, Selenium, Gulp
 
 </div>
 
