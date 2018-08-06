@@ -1,132 +1,93 @@
-Christophe-Marie Duquesne
+<div class="container">
+<div class="row">
+<div class="header col">
+Josh Martin
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+> <contact@cjoshmartin.com> • (317) 296-4588 • @cjoshmartin\
 
 ----
+</div>
+</div>
 
-Corporate Experience
---------------------
+<div class="row"> 
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
-
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
-
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
-
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
-
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
-
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
-
+<div class="main-content col order-2">
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+Dec 2019
+:   *B.S in Computer Engineering from Purdue University*
+    (Indianapolis, Indiana)
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+Aug 2016
+:   *Frontend Certification from Freecodecamp*
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    
+Corporate Experience
+--------------------
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+May – Aug. 2018
+:   *Software Engineering Intern for [Software Engineering Professionals (SEP)](https://www.sep.com/)*
+    (Carmel, Indiana)
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+    * Performed TDD and wrote acceptance testing using Cypress, Mocha, Chai, Enzyme, and Istanbul
+    * Created pull requests and actively participated in code reviews on Github Enterprise
+    * Helped bring a React application to Beta as well as implemented a state manager (MobX) into production
+    * Wrote services to make RESTful calls to a Java endpoint
+    * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment)
 
-Activities and interests
-------------------------
+July - Oct. 2017
+:   *Software Engineering Intern with
+    IU School Medicine Department of Radiology and Imaging Sciences* (Indianapolis, Indiana)
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+     * Build interfaces for the Doctor, Research Students, and Radiology department in Ruby on Rails, Vagrant and Puppet
+     * Supplied desktop support by means of imaging and deploying computers
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+May 2016 - April 2017
+:   *Software Quality Assurance Intern at [CourseNetworking](http://www.thecn.com/)*
+    (Indianapolis, Indiana)
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+     * Wrote automation scripts to test CourseNetworking's UI using Node.js (JavaScript), nightwatch.js (an end to end testing framework) and Selenium Web Driver.
+     * Worked on a collaborative team, made weekly reports, and met weekly deadlines for scripts.
+     * Wrote functions that enabled writing test with nightwatch.js easier and wrote documentation on how to use these functions for future users.
 
-----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+Nov. 2015 - May 2016
+:   *Digital Job Board Development Specialist Intern  at Indiana University School of Dentistry* (Indianapolis, Indiana)
+
+     * Designed email to be backwards compatible with other email clients and be responsive to media queries. 
+
+</div>
+
+<div class="sidebar col-md-3 order-1">
+
+Selected Projects
+----------------------------------
+
+project
+:   this is a project where I did project things 
+
+
+Languages
+----------------------------------
+
+Expert
+:
+    C++, JavaScript
+
+Proficient
+:
+    Python, Bash, Golang, Java
+
+Prior Experience
+:
+    Ruby On Rails, Assumbly (HC12), VHDL
+
+</div>
+</div>
+</div>
