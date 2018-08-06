@@ -9,7 +9,7 @@
 
 /* Whole document */
 body {
-    font-family: 'charterregular', Arial, sans-serif;
+    font-family: 'charterregular', "Times New Roman", Times;
     margin: auto;
     background: #FFFFFF;
 }
@@ -19,10 +19,10 @@ h1.title {
 }
 em {
 
-    font-family: 'charteritalic', Arial, sans-serif;
+    font-family: 'charteritalic', "Times New Roman", Times;
 }
 strong {
-    font-family: 'charterbold', Arial, sans-serif;
+    font-family: 'charterbold', "Times New Roman", Times;
 }
 /* Title of the resume */
 h1#josh-martin {
