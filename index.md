@@ -63,10 +63,7 @@ May 2016 - Apr. 2017
      * Wrote functions that enabled writing test with nightwatch.js easier and wrote documentation on how to use these functions for future users.
 
 
-Nov. 2015 - May 2016
-:   *<strong>Digital Job Board Development Specialist Intern</strong> at Indiana University School of Dentistry* (Indianapolis, Indiana)
 
-     * Designed email to be backwards compatible with other email clients and be responsive to media queries. 
 
 Selected Projects
 ----------------------------------
