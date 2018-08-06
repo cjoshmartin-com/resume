@@ -51,10 +51,9 @@ May – Aug. 2018
 July - Oct. 2017
 :   *<strong>Software Engineering Intern</strong> with
     IU School Medicine Department of Radiology and Imaging Sciences* (Indianapolis, Indiana)
-
-     * Build interfaces for the Doctor, Research Students, and Radiology department in Ruby on Rails, Vagrant and Puppet
-     * Supplied desktop support by means of imaging and deploying computers
-
+    
+     * Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
+    
 May 2016 - Apr. 2017
 :   *<strong>Software Quality Assurance Intern</strong> at [CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
