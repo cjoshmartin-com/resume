@@ -2,6 +2,8 @@
 title: Resume
 header-includes:
     <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
+    <link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="style.css" type="text/css" charset="utf-8" />
 ---
 
 <div class="container">
@@ -19,9 +21,7 @@ Josh Martin
 </div>
 
 <div class="row"> 
-
-
-<div class="main-content col order-2">
+<div class="main-content col">
 Education
 ---------
 
@@ -39,7 +39,7 @@ Corporate Experience
 --------------------
 
 May – Aug. 2018
-:   *Software Engineering Intern for [Software Engineering Professionals (SEP)](https://www.sep.com/)*
+:   *<strong>Software Engineering Intern</strong> for [Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
 
     * Performed TDD and wrote acceptance testing using Cypress, Mocha, Chai, Enzyme, and Istanbul
@@ -49,14 +49,14 @@ May – Aug. 2018
     * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment)
 
 July - Oct. 2017
-:   *Software Engineering Intern with
+:   *<strong>Software Engineering Intern</strong> with
     IU School Medicine Department of Radiology and Imaging Sciences* (Indianapolis, Indiana)
 
      * Build interfaces for the Doctor, Research Students, and Radiology department in Ruby on Rails, Vagrant and Puppet
      * Supplied desktop support by means of imaging and deploying computers
 
-May 2016 - April 2017
-:   *Software Quality Assurance Intern at [CourseNetworking](http://www.thecn.com/)*
+May 2016 - Apr. 2017
+:   *<strong>Software Quality Assurance Intern</strong> at [CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
 
      * Wrote automation scripts to test CourseNetworking's UI using Node.js (JavaScript), nightwatch.js (an end to end testing framework) and Selenium Web Driver.
@@ -65,7 +65,7 @@ May 2016 - April 2017
 
 
 Nov. 2015 - May 2016
-:   *Digital Job Board Development Specialist Intern  at Indiana University School of Dentistry* (Indianapolis, Indiana)
+:   *<strong>Digital Job Board Development Specialist Intern</strong> at Indiana University School of Dentistry* (Indianapolis, Indiana)
 
      * Designed email to be backwards compatible with other email clients and be responsive to media queries. 
 
@@ -81,52 +81,48 @@ PlentyFull (2018 Indy Civic Hack)
 
 
 Personal Website
-:   [https://cjoshmartin.com](https://cjoshmartin.com)
+:   [https://github.com/cjoshmartin-com](https://github.com/cjoshmartin-com)
 
     This is a GitHub pages website I use to sharpen my skills and showcase myself. This site changes as I change. Semantic versioning using Travis-CI and Semantic-Release.
     
     **Technologies**: React, Firebase, re-base, Travis-CI, semantic-release, Bootstrap, Semantic-UI, moment, marked, axios
 
-</div>
-
-<div class="sidebar col-md-3 order-1">
-
 Community Engagement
 ----------------------------------
 
-*Indy Open Tech Study Hall (Meetup)*\
+August 2017 – Present
+:   *Indy Open Tech Study Hall (Meetup)*
 
-August 2017 – Present\
-    Assistant Organizer
+    Organizer
 
-* Help locate locations and sponsors for events
-* Promote events on social media and work with other Organizers
+    * Help locate locations and sponsors for events
+    * Promote events on social media and work with other Organizers
 
-*Design Patterns in React (Talk)*\	  
 January 2018
+:   *Design Patterns in React (Talk)*
 
-* [http://cjoshmartin.com/design-patterns-react/](http://cjoshmartin.com/design-patterns-react/)
+    * [http://cjoshmartin.com/design-patterns-react/](http://cjoshmartin.com/design-patterns-react/)
 
-*Client-side Applications with Firebase and React.js (Talk)*\
 August 2017
+:   *Client-side Applications with Firebase and React.js (Talk)*
 
- * [http://slides.com/joshuamartin/deck#/](http://slides.com/joshuamartin/deck#/)
+     * [http://slides.com/joshuamartin/deck#/](http://slides.com/joshuamartin/deck#/)
 
 Languages
 ----------------------------------
 
 Expert
-:
-    C++, JavaScript
+:   C++, JavaScript
 
 Proficient
-:
-    Python, Bash, Golang, Java
+:   Python, Bash, Golang, Java
 
 Prior Experience
-:
-    Ruby On Rails, Assumbly (HC12), VHDL
+:   Ruby On Rails, Assumbly (HC12), VHDL
 
+</div>
+
+<div class="sidebar">
 </div>
 </div>
 </div>

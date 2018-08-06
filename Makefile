@@ -1,7 +1,7 @@
 all: index.html index.pdf index.docx index.txt
 
 index.html: index.md style.css bootstrap-grid.min.css
-	pandoc --standalone -c style.css --css bootstrap-grid.min.css --title-prefix="Josh Martin" --from markdown --to html -o index.html index.md
+	pandoc --standalone --css bootstrap-grid.min.css --title-prefix="Josh Martin" --from markdown --to html -o index.html index.md
 
 index.pdf: index.html
 	wkhtmltopdf index.html index.pdf

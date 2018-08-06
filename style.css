@@ -9,18 +9,23 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'charterregular', Arial, sans-serif;
     margin: auto;
     background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
 }
 
 h1.title {
     display: none;
 }
+em {
 
+    font-family: 'charteritalic', Arial, sans-serif;
+}
+strong {
+    font-family: 'charterbold', Arial, sans-serif;
+}
 /* Title of the resume */
-h1 {
+h1#josh-martin {
     font-size: 55px;
     color: #757575;
     text-align:center;
@@ -41,7 +46,6 @@ h2:before {
     height: 10px;
     background-color: #9CB770;
 }
-
 /* Definitions */
 dt {
     float: left;
@@ -51,7 +55,10 @@ dt {
 }
 dd {
     margin-left: 17%;
-    padding-bottom: 1rem;
+    padding-bottom: .5rem;
+}
+dl {
+    margin-bottom: 0;
 }
 p {
     margin-top:0;
@@ -86,8 +93,4 @@ ul {
 }
 ul a {
  max-width: 2rem;
-}
-
-*, ::after, ::before {
-    box-sizing: content-box;
 }

@@ -1,2 +1,4 @@
 *.pdf
 *.docx
+
+font/\.DS_Store
