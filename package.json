@@ -12,7 +12,7 @@
     "travis-deploy-once": "^5.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\"",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
