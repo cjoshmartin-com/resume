@@ -1,5 +1,7 @@
-*.pdf
-*.docx
+dist/*.pdf
+dist/*.docx
+dist/*.txt
+dist/*.html
 
 font/\.DS_Store
 node_modules/*

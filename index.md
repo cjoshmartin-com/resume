@@ -2,8 +2,9 @@
 title: Resume
 header-includes:
     <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
+    <link rel="stylesheet" href="css/bootstrap-grid.min.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="style.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />
 ---
 
 <div class="container">

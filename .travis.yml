@@ -17,7 +17,7 @@ after_success:
 deploy:
   provider: pages
   skip_cleanup: true
-  local_dir: . 
+  local_dir: dist/ 
   target-branch: gh-pages
   github_token: $GH_TOKEN
   on:
