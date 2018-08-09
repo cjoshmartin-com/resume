@@ -1,0 +1,27 @@
+language: node_js
+addons:
+  apt_packages:
+    - pandoc
+before_install:
+  - rm -rf node_modules/ 
+cache:
+  directories:
+    - ~/.npm
+notifications:
+  email: false
+node_js:
+  - '8'
+after_success:
+  - npm run travis-deploy-once "npm run semantic-release"
+  - make index.html
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: dist/ 
+  target-branch: gh-pages
+  github_token: $GH_TOKEN
+  on:
+    branch: master
+branches:
+  except:
+    - /^v\d+\.\d+\.\d+$/
