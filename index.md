@@ -10,6 +10,7 @@ header-includes:
 <div class="container">
 <div class="row">
 <div class="header col">
+
 Josh Martin
 =========================
 
@@ -18,11 +19,13 @@ Josh Martin
 > [cjoshmartin.com](https://www.cjoshmartin.com) • <contact@cjoshmartin.com> • (317) 296-4588 • [github.com/cjoshmartin](https://www.github.com/cjoshmartin)\
 
 ----
+
 </div>
 </div>
 
 <div class="row"> 
 <div class="main-content col">
+
 Education
 ---------
 
