@@ -67,10 +67,13 @@ Selected Projects
 PlentyFull (React Native)
 :   [https://github.com/Quick2Serve/PlentyFull](https://github.com/Quick2Serve/PlentyFull)
 
-    This was a group project (consisting of 3 people) building a React Native app in 24 hours. The purpose of this app is to help people in need find food pantries that are near them. The next step of this project would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
+    This was a group project (consisting of 3 people) building a React Native app in 24 hours for a local hackathon. The purpose of this app is to help people in need find food pantries that are near them. The next step of this project would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
 
+Sockets and Snakes\ (C++, Sockets)
+:   [https://github.com/cjoshmartin/sockets-and-snakes](https://github.com/cjoshmartin/sockets-and-snakes)
 
-
+    This was a group project (consisting of 2 people) building a C++ terminal game for my Unix programming class. The purpose of this game, was to play snake over sockets using the curses library.
+    
 cjoshmartin.com (React.JS)
 :   [https://github.com/cjoshmartin-com](https://github.com/cjoshmartin-com)
 
