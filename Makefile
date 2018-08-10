@@ -1,10 +1,16 @@
-all: index.html index.pdf index.docx index.txt
+all: html pdf index.docx index.txt
 
-index.html: index.md dist/css/style.css
+html: index.md dist/css/style.css
 	pandoc --standalone --title-prefix="Josh Martin" --from markdown --to html -o dist/index.html index.md
 
-index.pdf: dist/index.html
+open_html: dist/index.html
+	open dist/index.html
+
+pdf: dist/index.html
 	wkhtmltopdf dist/index.html dist/index.pdf
+
+open_pdf: dist/index.pdf
+	open dist/index.pdf
 
 index.docx: index.md
 	pandoc --from markdown --to docx -o dist/index.docx index.md
