@@ -72,7 +72,7 @@ PlentyFull (React Native)
 Sockets and Snakes\ (C++, Sockets)
 :   [https://github.com/cjoshmartin/sockets-and-snakes](https://github.com/cjoshmartin/sockets-and-snakes)
 
-    This was a group project (consisting of 2 people) building a C++ terminal game for my Unix programming class. The purpose of this game, was to play snake over sockets using the curses library.
+    This was a group project (consisting of 2 people) building a C++ terminal game for my Unix programming class. The purpose of this game, was to play snake over sockets using the Curses.
     
 cjoshmartin.com (React.JS)
 :   [https://github.com/cjoshmartin-com](https://github.com/cjoshmartin-com)
