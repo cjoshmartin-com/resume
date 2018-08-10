@@ -93,7 +93,7 @@ August 2017 – Present
 January 2018
 :   *Design Patterns in React (Talk)*
 
-    * [http://cjoshmartin.com/design-patterns-react/](http://cjoshmartin.com/design-patterns-react/)
+    * [http://slides.cjoshmartin.com/design-patterns-react/](http://slides.cjoshmartin.com/design-patterns-react/)
 
 August 2017
 :   *Client-side Applications with Firebase and React.js (Talk)*
