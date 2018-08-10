@@ -64,20 +64,20 @@ May 2016 - Apr. 2017
 Selected Projects
 ----------------------------------
 
-PlentyFull (2018 Indy Civic Hack)
+PlentyFull (React Native)
 :   [https://github.com/Quick2Serve/PlentyFull](https://github.com/Quick2Serve/PlentyFull)
 
-    An app written in React Native to make it easier for people who are need of food to be able to find a food pantry.
+    This was a group project (consisting of 3 people) building a React Native app in 24 hours for a local hackathon. The purpose of this app is to help people in need find food pantries that are near them. The next step of this project would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
 
-    **Technologies**: React Native, React Navigation, Expo, lodash, axios
+Sockets and Snakes\ (C++, Sockets)
+:   [https://github.com/cjoshmartin/sockets-and-snakes](https://github.com/cjoshmartin/sockets-and-snakes)
 
-
-Personal Website
+    This was a group project (consisting of 2 people) building a C++ terminal game for my Unix programming class. The purpose of this game, was to play snake over sockets using the curses library.
+    
+cjoshmartin.com (React.JS)
 :   [https://github.com/cjoshmartin-com](https://github.com/cjoshmartin-com)
 
-    This is a GitHub pages website I use to sharpen my skills and showcase myself. This site changes as I change. Semantic versioning using Travis-CI and Semantic-Release.
-    
-    **Technologies**: React, Firebase, re-base, Travis-CI, semantic-release, Bootstrap, Semantic-UI, moment, marked, axios
+    This is a solo-project I began writing in 2015. This project started out as a simple html website and has grown into a few Git repositories, including  a mobile app, a resume repository, an npm package, and a React website. Continuous Deployment is achieved using Travis-CI and Semantic-Release. The backend runs off a Firebase instance used for its database, authentication and file storage. Next steps are to build a blog and better UI design.
 
 Community Engagement
 ----------------------------------
