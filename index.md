@@ -10,6 +10,7 @@ header-includes:
 <div class="container">
 <div class="row">
 <div class="header col">
+
 Josh Martin
 =========================
 
@@ -23,6 +24,7 @@ Josh Martin
 
 <div class="row"> 
 <div class="main-content col">
+
 Education
 ---------
 
