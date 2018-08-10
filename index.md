@@ -112,11 +112,6 @@ Proficient
 Prior Experience
 :   Ruby On Rails, Assumbly (HC12), VHDL
 
-Technologies
-----------------------------------
-
-Node.js, React, Firebase, MongoDB, UDP and Sockets Programming, Arduino, jQuery, Git, Docker, Virtualbox, Bootstrap,Express, Selenium, Gulp
-
 </div>
 
 <div class="sidebar">
