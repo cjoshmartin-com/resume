@@ -86,20 +86,20 @@ Community Engagement
 ----------------------------------
 
 August 2017 – Present
-:   *Indy Open Tech Study Hall (Meetup)*
+:   **Indy Open Tech Study Hall (Meetup)**
 
-    Organizer
+    **Organizer**
 
     * Help locate locations and sponsors for events
     * Promote events on social media and work with other Organizers
 
 January 2018
-:   *Design Patterns in React (Talk)*
+:   **Design Patterns in React (Talk)**
 
     * [http://slides.cjoshmartin.com/design-patterns-react/](http://slides.cjoshmartin.com/design-patterns-react/)
 
 August 2017
-:   *Client-side Applications with Firebase and React.js (Talk)*
+:   **Client-side Applications with Firebase and React.js (Talk)**
 
      * [http://slides.com/joshuamartin/deck#/](http://slides.com/joshuamartin/deck#/)
 
