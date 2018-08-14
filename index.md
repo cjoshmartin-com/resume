@@ -43,7 +43,8 @@ Corporate Experience
 --------------------
 
 May – Aug. 2018
-:   *<strong>Software Engineering Intern</strong> for [Software Engineering Professionals (SEP)](https://www.sep.com/)*
+:   *<strong>Software Engineering Intern</strong>\ <br />
+[Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
     
     * Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
@@ -53,13 +54,15 @@ May – Aug. 2018
     * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
 July - Oct. 2017
-:   *<strong>Software Engineering Intern</strong> with
-    IU School Medicine Department of Radiology and Imaging Sciences* (Indianapolis, Indiana)
+:   *<strong>Software Engineering Intern</strong>\ <br/> 
+IU School Medicine - Radiology and Imaging Sciences*
+(Indianapolis, Indiana)
     
      * Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
     
 May 2016 - Apr. 2017
-:   *<strong>Software Quality Assurance Intern</strong> at [CourseNetworking](http://www.thecn.com/)*
+:   *<strong>Software Quality Assurance Intern</strong>\ <br />
+[CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
 
      * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
