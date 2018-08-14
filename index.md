@@ -30,7 +30,7 @@ Education
 ---------
 
 Dec 2019
-:   *B.S in Computer Engineering from Purdue University*
+:   *Bachelor of Science in Computer Engineering from The Purdue of Engineering and Technology*
     (Indianapolis, Indiana)
 
     * Minors in Computer Science and Mathematics
