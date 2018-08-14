@@ -26,8 +26,7 @@ Josh Martin
 <div class="row"> 
 <div class="main-content col">
 
-Education
----------
+### Education
 
 Dec 2019
 :   *Bachelor of Science in Computer Engineering from The Purdue of Engineering and Technology*
@@ -39,8 +38,7 @@ Aug 2016
 :   *Frontend Certification from Freecodecamp*
 
     
-Corporate Experience
---------------------
+### Corporate Experience
 
 May – Aug. 2018
 :   *<strong>Software Engineering Intern</strong>\ <br />
@@ -67,8 +65,7 @@ May 2016 - Apr. 2017
 
      * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
 
-Selected Projects
-----------------------------------
+### Selected Projects
 
 PlentyFull (React Native)
 :   [https://github.com/Quick2Serve/PlentyFull](https://github.com/Quick2Serve/PlentyFull)
@@ -85,8 +82,7 @@ cjoshmartin.com (React.JS)
 
     This is a solo-project I began writing in 2015. This project started out as a simple html website and has grown into a few Git repositories, including  a mobile app, a resume repository, an npm package, and a React website. Continuous Deployment is achieved using Travis-CI and Semantic-Release. The backend runs off a Firebase instance used for its database, authentication and file storage. Next steps are to build a blog and better UI design.
 
-Community Engagement
-----------------------------------
+### Community Engagement
 
 August 2017 – Present
 :   **Indy Open Tech Study Hall (Meetup)**
@@ -106,8 +102,7 @@ August 2017
 
      * [http://slides.com/joshuamartin/deck#/](http://slides.com/joshuamartin/deck#/)
 
-Languages
-----------------------------------
+### Languages
 
 Expert
 :   C++, C, JavaScript

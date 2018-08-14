@@ -12,6 +12,7 @@ body {
     font-family: 'charterregular', "Times New Roman", Times;
     margin: auto;
     background: #FFFFFF;
+    font-size: 14px;
 }
 
 h1.title {
@@ -26,19 +27,19 @@ strong {
 }
 /* Title of the resume */
 h1#josh-martin {
-    font-size: 55px;
+    font-size: 40px;
     color: #757575;
     text-align:center;
     margin-bottom:15px;
 }
 
 /* Titles of categories */
-h2 {
+h3 {
     color: #397249;
     margin-top: 0;
 }
 /* There is a bar just before each category */
-h2:before {
+h3:before {
     content: "";
     display: inline-block;
     margin-right:1%;
