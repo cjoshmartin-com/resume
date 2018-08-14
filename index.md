@@ -16,7 +16,7 @@ Josh Martin
 
 ----
 
-> [cjoshmartin.com](https://www.cjoshmartin.com) • <contact@cjoshmartin.com> • (317) 296-4588 • [github.com/cjoshmartin](https://www.github.com/cjoshmartin)\
+>  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://cjoshmartin.com/linkedin) • (317) 296-4588\
 
 ----
 
