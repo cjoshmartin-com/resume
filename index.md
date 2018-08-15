@@ -105,14 +105,7 @@ cjoshmartin.com (React.JS)
 
 ### Languages
 
-Expert
-:   C++, C, JavaScript
-
-Proficient
-:   Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS
-
-Prior Experience
-:   Ruby On Rails, Assumbly (HC12), VHDL
+C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assumbly (HC12)
 
 </div>
 
