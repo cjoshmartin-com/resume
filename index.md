@@ -107,6 +107,9 @@ cjoshmartin.com (React.JS)
 
 C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assumbly (HC12)
 
+### Technologies
+
+Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
 </div>
 
 <div class="sidebar">
