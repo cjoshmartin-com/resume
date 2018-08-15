@@ -28,42 +28,49 @@ Josh Martin
 
 ### Education
 
-Dec 2019
-:   *Bachelor of Science in Computer Engineering from The Purdue of Engineering and Technology*
-    (Indianapolis, Indiana)
+##### December 2019
+#### Bachelor of Science in Computer Engineering from The Purdue of Engineering and Technology
+(Indianapolis, Indiana)
 
-    * Minors in Computer Science and Mathematics
+* Minors in Computer Science and Mathematics
 
-Aug 2016
-:   *Frontend Certification from Freecodecamp*
+##### August 2016 
+#### Frontend Certification from Freecodecamp
+<br />
 
-    
 ### Corporate Experience
 
-May – Aug. 2018
-:   *<strong>Software Engineering Intern</strong>\ <br />
-[Software Engineering Professionals (SEP)](https://www.sep.com/)*
+
+##### May – August 2018
+
+#### Software Engineering Intern
+
+*[Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
     
-    * Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
+* Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
 
-    * Ensured code quality by learning/practicing Test Driven Development (TDD), writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
+* Ensured code quality by learning/practicing Test Driven Development (TDD), writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
 
-    * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
+* Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
-July - Oct. 2017
-:   *<strong>Software Engineering Intern</strong>\ <br/> 
-IU School Medicine - Radiology and Imaging Sciences*
+
+##### July - October 2017
+
+#### Software Engineering Intern
+
+*IU School Medicine - Radiology and Imaging Sciences*
 (Indianapolis, Indiana)
+
+* Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
     
-     * Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
-    
-May 2016 - Apr. 2017
-:   *<strong>Software Quality Assurance Intern</strong>\ <br />
-[CourseNetworking](http://www.thecn.com/)*
+##### May 2016 - April 2017
+
+#### Software Quality Assurance Intern
+*[CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
 
-     * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
+* Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
 
 ### Selected Projects
 
@@ -84,23 +91,17 @@ cjoshmartin.com (React.JS)
 
 ### Community Engagement
 
-August 2017 – Present
-:   **Indy Open Tech Study Hall (Meetup)**
+##### August 2017 – Present
+#### Indy Open Tech Study Hall (Meetup)
+**Organizer**
 
-    **Organizer**
+* Help locate locations and sponsors for events
+* Promote events on social media and work with other Organizers
 
-    * Help locate locations and sponsors for events
-    * Promote events on social media and work with other Organizers
+#### React.js Meetup (Talks)
 
-January 2018
-:   **Design Patterns in React (Talk)**
-
-    * [http://slides.cjoshmartin.com/design-patterns-react/](http://slides.cjoshmartin.com/design-patterns-react/)
-
-August 2017
-:   **Client-side Applications with Firebase and React.js (Talk)**
-
-     * [http://slides.com/joshuamartin/deck#/](http://slides.com/joshuamartin/deck#/)
+* Design Patterns in React (January 2018) 
+* Client-side Applications with Firebase and React.js (August 2017)
 
 ### Languages
 

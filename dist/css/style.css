@@ -47,6 +47,14 @@ h3:before {
     height: 10px;
     background-color: #9CB770;
 }
+h4 {
+    margin-bottom: 3px;
+}
+h5 {
+    float: right;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
 /* Definitions */
 dt {
     float: left;
@@ -91,6 +99,7 @@ hr {
 ul {
     padding-left: 1rem;
     margin: 0;
+    margin-bottom: .5rem;
 }
 ul a {
  max-width: 2rem;
