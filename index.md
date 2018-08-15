@@ -2,7 +2,7 @@
 title: Resume
 header-includes:
     <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
-    <link rel="stylesheet" href="css/bootstrap-grid.min.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />
 ---
@@ -24,7 +24,7 @@ Josh Martin
 </div>
 
 <div class="row"> 
-<div class="main-content col">
+<div class="main-content col-xs-8">
 
 ### Education
 
@@ -36,7 +36,6 @@ Josh Martin
 
 ##### August 2016 
 #### Frontend Certification from Freecodecamp
-<br />
 
 ### Corporate Experience
 
@@ -93,7 +92,9 @@ Josh Martin
 * Continuous Deployment is achieved using Travis-CI and Semantic-Release. 
 * The backend runs off a Firebase instance used for its database, authentication and file storage. 
 
-*<u>Next Step</u>: * To build a blog and better UI design.
+</div>
+
+<div class="sidebar col-xs-4">
 
 ### Community Engagement
 
@@ -116,9 +117,7 @@ C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On R
 ### Technologies
 
 Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
-</div>
 
-<div class="sidebar">
 </div>
 </div>
 </div>
