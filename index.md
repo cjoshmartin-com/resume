@@ -74,20 +74,26 @@ Josh Martin
 
 ### Selected Projects
 
-PlentyFull (React Native)
-:   [https://github.com/Quick2Serve/PlentyFull](https://github.com/Quick2Serve/PlentyFull)
+##### June 15-16 2018
+#### PlentyFull | Group Project | [https://github.com/Quick2Serve/PlentyFull](https://github.com/Quick2Serve/PlentyFull)  
 
-    This was a group project (consisting of 3 people) building a React Native app in 24 hours for a local hackathon. The purpose of this app is to help people in need find food pantries that are near them. The next step of this project would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
+*<u>Purpose</u>: * Build a React Native App is to help people in need find food pantries. 
 
-Sockets and Snakes\ (C++, Sockets)
-:   [https://github.com/cjoshmartin/sockets-and-snakes](https://github.com/cjoshmartin/sockets-and-snakes)
+*<u>Next Step</u>: * Would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
 
-    This was a group project (consisting of 2 people) building a C++ terminal game for my Unix programming class. The purpose of this game, was to play snake over sockets using the Curses.
-    
-cjoshmartin.com (React.JS)
-:   [https://github.com/cjoshmartin-com](https://github.com/cjoshmartin-com)
+##### Spring 2018
+#### Sockets and Snakes | Group Project | [https://github.com/cjoshmartin/sockets-and-snakes](https://github.com/cjoshmartin/sockets-and-snakes)
 
-    This is a solo-project I began writing in 2015. This project started out as a simple html website and has grown into a few Git repositories, including  a mobile app, a resume repository, an npm package, and a React website. Continuous Deployment is achieved using Travis-CI and Semantic-Release. The backend runs off a Firebase instance used for its database, authentication and file storage. Next steps are to build a blog and better UI design.
+*<u>Purpose</u>: * Building a C++ terminal game for my Unix programming class and to play snake over sockets using the Curses library.
+
+##### 2015 - Present
+#### cjoshmartin.com | Solo Project | [https://github.com/cjoshmartin-com](https://github.com/cjoshmartin-com)
+
+* Mobile app, Resume repository, NPM package, and a React website.
+* Continuous Deployment is achieved using Travis-CI and Semantic-Release. 
+* The backend runs off a Firebase instance used for its database, authentication and file storage. 
+
+*<u>Next Step</u>: * To build a blog and better UI design.
 
 ### Community Engagement
 
