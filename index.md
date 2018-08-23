@@ -29,7 +29,7 @@ Josh Martin
 ### Education
 
 ##### December 2019
-#### Bachelor of Science in Computer Engineering from The Purdue of Engineering and Technology
+#### Bachelor of Science in Computer Engineering from Purdue of Engineering and Technology
 (Indianapolis, Indiana)
 
 * Minors in Computer Science and Mathematics
@@ -51,7 +51,7 @@ Josh Martin
 
 * Ensured code quality by learning/practicing Test Driven Development (TDD) in the sense of writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
 
-* Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
+* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
 
 ##### July - October 2017
