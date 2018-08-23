@@ -2,7 +2,7 @@
 title: Resume
 header-includes:
     <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
-    <link rel="stylesheet" href="css/bootstrap-grid.min.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />
 ---
@@ -24,7 +24,7 @@ Josh Martin
 </div>
 
 <div class="row"> 
-<div class="main-content col">
+<div class="main-content col-xs-8">
 
 ### Education
 
@@ -36,7 +36,6 @@ Josh Martin
 
 ##### August 2016 
 #### Frontend Certification from Freecodecamp
-<br />
 
 ### Corporate Experience
 
@@ -48,9 +47,9 @@ Josh Martin
 *[Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
     
-* Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
+* Accomplished bringing a React/Node.js application to beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
 
-* Ensured code quality by learning/practicing Test Driven Development (TDD), writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
+* Ensured code quality by learning/practicing Test Driven Development (TDD) in the sense of writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
 
 * Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
@@ -62,7 +61,7 @@ Josh Martin
 *IU School Medicine - Radiology and Imaging Sciences*
 (Indianapolis, Indiana)
 
-* Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
+* Created value for doctors and research students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrant and Puppet.
     
 ##### May 2016 - April 2017
 
@@ -93,7 +92,9 @@ Josh Martin
 * Continuous Deployment is achieved using Travis-CI and Semantic-Release. 
 * The backend runs off a Firebase instance used for its database, authentication and file storage. 
 
-*<u>Next Step</u>: * To build a blog and better UI design.
+</div>
+
+<div class="sidebar col-xs-4">
 
 ### Community Engagement
 
@@ -111,14 +112,12 @@ Josh Martin
 
 ### Languages
 
-C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assumbly (HC12)
+C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assembly (HC12)
 
 ### Technologies
 
 Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
-</div>
 
-<div class="sidebar">
 </div>
 </div>
 </div>
