@@ -11,8 +11,10 @@ header-includes:
 <div class="row">
 <div class="header col">
 
+
 Josh Martin
 =========================
+
 
 ----
 
@@ -29,7 +31,7 @@ Josh Martin
 ### Education
 
 ##### December 2019
-#### Bachelor of Science in Computer Engineering from The Purdue of Engineering and Technology
+#### Bachelor of Science in Computer Engineering from Purdue of Engineering and Technology
 (Indianapolis, Indiana)
 
 * Minors in Computer Science and Mathematics
@@ -47,11 +49,11 @@ Josh Martin
 *[Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
     
-* Accomplished bringing a React/Node.js application to Beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
+* Accomplished bringing a React/Node.js application to beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
 
-* Ensured code quality by learning/practicing Test Driven Development (TDD), writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
+* Ensured code quality by learning/practicing Test Driven Development (TDD) in the sense of writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
 
-* Engaged in Agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
+* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
 
 ##### July - October 2017
@@ -61,7 +63,7 @@ Josh Martin
 *IU School Medicine - Radiology and Imaging Sciences*
 (Indianapolis, Indiana)
 
-* Creating value for Doctors and Research Students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrent and Puppet.
+* Created value for doctors and research students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrant and Puppet.
     
 ##### May 2016 - April 2017
 
@@ -112,7 +114,7 @@ Josh Martin
 
 ### Languages
 
-C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assumbly (HC12)
+C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assembly (HC12)
 
 ### Technologies
 
