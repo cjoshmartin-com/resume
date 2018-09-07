@@ -1,6 +1,7 @@
 ---
 title: Resume
 header-includes:
+    <link media="print" rel="Alternate" href="index.pdf">
     <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
