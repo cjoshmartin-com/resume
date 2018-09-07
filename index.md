@@ -115,7 +115,7 @@ Josh Martin
 
 ### Languages
 
-C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assembly (HC12)
+C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assembly (68HC12, ARM)
 
 ### Technologies
 
