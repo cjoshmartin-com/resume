@@ -101,6 +101,10 @@ Josh Martin
 
 ### Community Engagement
 
+#### IEEE (School Club)
+**Vice President**
+
+
 #### Indy Open Tech Study Hall (Meetup)
 **Organizer**
 
