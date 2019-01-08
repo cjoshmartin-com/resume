@@ -12,7 +12,7 @@ body {
     font-family: 'charterregular', "Times New Roman", Times;
     margin: auto;
     background: #FFFFFF;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 h1.title {
@@ -38,6 +38,7 @@ h1#josh-martin {
 h3 {
     color: #397249;
     margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 /* There is a bar just before each category */
 h3:before {
@@ -55,10 +56,30 @@ h5 {
     float: right;
     width: 10rem;
     margin-top: 0;
-    padding-left:30px;
+    /*padding-left:30px;*/
     margin-right: 0;
     margin-bottom: 10px;
+    text-align: left;
 }
+
+h5#august-2017-present{
+
+    margin-top: 1.5rem;
+
+}
+h5#may-august-2018, h5#july---october-2017, h5#may-2016---april-2017 {
+
+   width: 13rem; 
+   margin-top: 1.7rem;
+
+}
+h5#june-15-16-2018, h5#spring-2018, h5#present {
+    margin-top: 1.5rem;
+}
+h5#august-2016, h5#december-2019 {
+    margin-top: 2rem;
+}
+
 /* Definitions */
 dt {
     float: left;
