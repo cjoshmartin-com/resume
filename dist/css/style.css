@@ -26,7 +26,7 @@ strong {
     font-family: 'charterbold', "Times New Roman", Times;
 }
 /* Title of the resume */
-h1#josh-martin {
+h1 {
     font-size: 40px;
     color: #757575;
     text-align:center;
