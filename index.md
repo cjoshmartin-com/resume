@@ -2,7 +2,7 @@
 title: Resume
 header-includes:
     <link media="print" rel="Alternate" href="index.pdf">
-    <link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
+    <link rel="shortcut icon" href="https://www.cjoshmartin.com/favicon.ico">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
     <link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />
@@ -69,7 +69,7 @@ Josh Martin
 ##### May 2016 - April 2017
 
 #### Software Quality Assurance Intern
-*[CourseNetworking](http://www.thecn.com/)*
+*[CourseNetworking](https://www.thecn.com/)*
     (Indianapolis, Indiana)
 
 * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
