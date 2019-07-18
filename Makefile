@@ -1,7 +1,7 @@
-all: html pdf index.docx index.txt
+all: html pdf index.docx 
 
-html: index.md dist/css/style.css
-	pandoc --standalone --title-prefix="Josh Martin" --from markdown --to html -o dist/index.html index.md
+html: src/header.md src/experience_general.md src/selected-projects_general.md src/sidebar_general.md dist/css/style.css
+	pandoc --standalone --title-prefix="Josh Martin" --from markdown --to html -o dist/index.html src/header.md src/experience_general.md src/selected-projects_general.md src/sidebar_general.md
 
 open_html: dist/index.html
 	open dist/index.html
