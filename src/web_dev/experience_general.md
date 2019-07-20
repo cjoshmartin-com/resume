@@ -31,4 +31,3 @@
     (Indianapolis, Indiana)
 
 * Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
-
