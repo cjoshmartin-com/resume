@@ -19,7 +19,7 @@ Josh Martin
 
 ----
 
->  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/)\
+>  <chajmart@iu.edu> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/)\
 
 ----
 
