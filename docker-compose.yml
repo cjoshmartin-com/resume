@@ -3,6 +3,7 @@
 version: '2'
 services:
   web:
+    container_name: resume_web
     build: .
     command: npm start
     volumes:
@@ -13,10 +14,7 @@ services:
     depends_on:
       - rethinkdb
   rethinkdb:
-    #build: /rethinkdb
+    container_name: resume_db_1
     image: rethinkdb
     ports:
      - "28015"
-    #volumes:
-     #- /data:/data
-    #command: rethinkdb --bind all --data /data 
