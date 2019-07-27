@@ -5,13 +5,18 @@
   "description": "verisonable resume of cjoshmartin's skills",
   "main": "index.html",
   "dependencies": {
-    "npm": "^6.3.0"
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "npm": "^6.3.0",
+    "rethinkdb": "^2.3.3"
   },
   "devDependencies": {
-    "semantic-release": "^15.9.6",
+    "semantic-release": "^15.13.19",
     "travis-deploy-once": "^5.0.2"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\"",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"

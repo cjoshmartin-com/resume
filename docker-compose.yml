@@ -1,0 +1,20 @@
+# Start server: `docker-compose -d up`
+# Stop  server: `docker-compose down`
+version: '2'
+services:
+  web:
+    container_name: resume_web
+    build: .
+    command: npm start
+    volumes:
+      - .:/usr/src/app/
+      - /usr/src/app/node_modules
+    ports:
+      - "8080:8080"
+    depends_on:
+      - rethinkdb
+  rethinkdb:
+    container_name: resume_db_1
+    image: rethinkdb
+    ports:
+     - "28015"
