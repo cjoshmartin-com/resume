@@ -19,7 +19,7 @@ Josh Martin
 
 ----
 
->  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://cjoshmartin.com/linkedin) • (317) 296-4588\
+>  <chajmart@iu.edu> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://cjoshmartin.com/linkedin)\
 
 ----
 
@@ -32,16 +32,60 @@ Josh Martin
 ### Education
 
 ##### December 2019
+
 #### Bachelor of Science in Computer Engineering from The Purdue School of Engineering and Technology
 (Indianapolis, Indiana)
 
 * Minors in Computer Science and Mathematics
 
 ##### August 2016 
+
 #### Frontend Certification from Freecodecamp
 
 ### Corporate Experience
 
+
+##### May – August 2019
+
+#### Software Engineering Intern
+
+*[Software Engineering Professionals (SEP)](https://www.sep.com/)*
+    (Carmel, Indiana)
+
+* C+++/qt/Embedded
+* Trouble shoot display code
+* Full stack of the embedded stack from UI to low level entry point
+* Integrated with GPS computations 
+* Vechical automation 
+* spacial Ag data (maps data) parsing and generated an agerator 
+* Embedded linux os for ag display units
+* Protobufs 
+* Artifactory 
+* VMware 
+* Squish test 
+* Jenkins 
+* Git/github
+* gtest
+    
+* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
+
+##### Dec 2018 - May 2019 
+
+#### Student Researcher 
+
+IUPUI (Indianapolis, Indiana)
+
+* Observed weather conditions and vehicles on various highways in Indiana
+
+* Wrote programs in Python with OpenCV, as well as build Window Forms in C#
+
+##### August 2018 - December 2018
+
+#### Student Researcher
+
+IUPUI (Indianapolis, Indiana)
+
+* Researched creating convolutional neuronal networks using Python and Numpy for the purpose of car detection
 
 ##### May – August 2018
 
@@ -72,28 +116,35 @@ Josh Martin
 *[CourseNetworking](http://www.thecn.com/)*
     (Indianapolis, Indiana)
 
-* Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. Futhermore meeting weekly deadlines.
+* Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. 
 
 ### Selected Projects
 
+##### February 16-17 2019
+
+#### Memes-for-all | Hackathon
+
+* A hackathon project aimed to make (GOOD) memes accessible for all people with a device that can receive text messages. 
+
+* Running on GCP, using Firebase, Twilio, and puppeteer. 
+
+##### December 2018
+
+#### Daily-Dog | Hackathon
+
+* An AWS lambda cron job that sends an inspirational quote and a picture of a cute dog, on a daily basis via text message (Twilio) to my girlfriend. 
+
 ##### June 15-16 2018
+
 #### PlentyFull | Group Project    
 
-*<u>Purpose</u>: * Build a React Native App is to help people in need find food pantries. 
-
-*<u>Next Step</u>: * Would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
+* Build a React Native App is to help people in need find food pantries. 
 
 ##### Spring 2018
+
 #### Sockets and Snakes | Group Project 
 
 *<u>Purpose</u>: * Building a C++ terminal game for my Unix programming class and to play snake over sockets using the Curses library.
-
-##### 2015 - Present
-#### cjoshmartin.com | Solo Project 
-
-* Mobile app, Resume repository, NPM package, and a React website.
-* Continuous Deployment is achieved using Travis-CI and Semantic-Release. 
-* The backend runs off a Firebase instance used for its database, authentication and file storage. 
 
 </div>
 
@@ -111,7 +162,12 @@ Josh Martin
 * Help locate locations and sponsors for events
 * Promote events on social media and work with other Organizers
 
-#### React.js Meetup (Talks)
+### Talks
+
+#### Computer Networking
+* Making it to class on time using MQTT (December 2018)
+
+#### React.js Meetup 
 
 * Design Patterns in React (January 2018) 
 * Client-side Applications with Firebase and React.js (August 2017)
