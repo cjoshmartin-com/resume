@@ -61,21 +61,6 @@ Josh Martin
 * Wrote unit test using Google Test.
 * Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
-<!--* C+++/qt/Embedded-->
-<!--* Trouble shoot display code-->
-* Full stack of the embedded stack from UI to low level entry point
-<!--* Integrated with GPS  -->
-<!--* Vechical automation -->
-<!--* spacial Ag data (maps data) parsing and generated an agerator -->
-<!--* Embedded linux os for ag display units-->
-* Protobufs 
-* Artifactory 
-<!--* VMware -->
-<!--* Squish test -->
-<!--* Jenkins -->
-* Git/github
-    
-
 ##### Dec 2018 - May 2019 
 
 #### Student Researcher 
