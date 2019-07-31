@@ -52,22 +52,29 @@ Josh Martin
 *[Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
 
-* C+++/qt/Embedded
-* Trouble shoot display code
+* Wrote Embedded C++ (qt) for agricultural display units
+* Wrote UI test in Squish and Python 
+* Tested builds on Jenkins and publish builds to Artifactory
+* Troubleshoot builds in a simulator and on target
+* Automated agricultural equipments movements through a given space, as well integrated with GPS computations
+* parsed agricultural data (map data) and created aggregators/consumers
+* Wrote unit test using Google Test.
+* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
+
+<!--* C+++/qt/Embedded-->
+<!--* Trouble shoot display code-->
 * Full stack of the embedded stack from UI to low level entry point
-* Integrated with GPS computations 
-* Vechical automation 
-* spacial Ag data (maps data) parsing and generated an agerator 
-* Embedded linux os for ag display units
+<!--* Integrated with GPS  -->
+<!--* Vechical automation -->
+<!--* spacial Ag data (maps data) parsing and generated an agerator -->
+<!--* Embedded linux os for ag display units-->
 * Protobufs 
 * Artifactory 
-* VMware 
-* Squish test 
-* Jenkins 
+<!--* VMware -->
+<!--* Squish test -->
+<!--* Jenkins -->
 * Git/github
-* gtest
     
-* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
 ##### Dec 2018 - May 2019 
 
@@ -120,6 +127,13 @@ IUPUI (Indianapolis, Indiana)
 
 ### Selected Projects
 
+##### TODO
+
+#### Venmo @ gradutation  | Personal
+
+* blah
+
+
 ##### February 16-17 2019
 
 #### Memes-for-all | Hackathon
@@ -127,12 +141,6 @@ IUPUI (Indianapolis, Indiana)
 * A hackathon project aimed to make (GOOD) memes accessible for all people with a device that can receive text messages. 
 
 * Running on GCP, using Firebase, Twilio, and puppeteer. 
-
-##### December 2018
-
-#### Daily-Dog | Hackathon
-
-* An AWS lambda cron job that sends an inspirational quote and a picture of a cute dog, on a daily basis via text message (Twilio) to my girlfriend. 
 
 ##### June 15-16 2018
 
@@ -174,11 +182,11 @@ IUPUI (Indianapolis, Indiana)
 
 ### Languages
 
-C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assembly (68HC12, ARM)
+C++, C, JavaScript, Python, Bash, Matlab, CSS, Ruby/Ruby On Rails, Assembly (68HC12, ARM)
 
 ### Technologies
 
-Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
+PIC Microcontrollers, QT, Protobuffers, Google Test, AWS, Google Cloud Platform (GCP), MQTT, Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
 
 </div>
 </div>
