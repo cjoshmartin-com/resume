@@ -19,7 +19,7 @@ Josh Martin
 
 ----
 
->  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://cjoshmartin.com/linkedin) • (317) 296-4588\
+>  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/) \
 
 ----
 
@@ -42,6 +42,13 @@ Josh Martin
 
 ### Corporate Experience
 
+
+##### May – August 2019
+
+#### Software Engineering Intern
+
+*[Software Engineering Professionals (SEP)](https://www.sep.com/)*
+    (Carmel, Indiana)
 
 ##### May – August 2018
 
@@ -76,24 +83,16 @@ Josh Martin
 
 ### Selected Projects
 
-##### June 15-16 2018
+#### Venmo @ Gradutation  | Personal
+
+ A LED matrix in a graduation cap allowing people to venmo me at graduation and display any message they want. Using puppeteer.js, Firebase, Python and a Raspberry Pi.
+
 #### PlentyFull | Group Project    
 
 *<u>Purpose</u>: * Build a React Native App is to help people in need find food pantries. 
 
 *<u>Next Step</u>: * Would be to figure out which food pantries are currently open and implement a state manager to reduce the cost of some calculations (e.g. distance from each food bank).  
 
-##### Spring 2018
-#### Sockets and Snakes | Group Project 
-
-*<u>Purpose</u>: * Building a C++ terminal game for my Unix programming class and to play snake over sockets using the Curses library.
-
-##### 2015 - Present
-#### cjoshmartin.com | Solo Project 
-
-* Mobile app, Resume repository, NPM package, and a React website.
-* Continuous Deployment is achieved using Travis-CI and Semantic-Release. 
-* The backend runs off a Firebase instance used for its database, authentication and file storage. 
 
 </div>
 
@@ -118,11 +117,11 @@ Josh Martin
 
 ### Languages
 
-C++, C, JavaScript, Python, Bash, Golang, Java, Matlab, CSS/SASS/SCSS, Ruby On Rails, Assembly (68HC12, ARM)
+C++, C, JavaScript, Python, Bash, Golang, CSS/SASS/SCSS, Ruby On Rails 
 
 ### Technologies
 
-Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
+Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
 
 </div>
 </div>
