@@ -19,7 +19,7 @@ Josh Martin
 
 ----
 
->  <chajmart@iu.edu> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://cjoshmartin.com/linkedin)\
+>  <chajmart@iu.edu> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/)\
 
 ----
 
@@ -52,32 +52,33 @@ Josh Martin
 *[Software Engineering Professionals (SEP)](https://www.sep.com/)*
     (Carmel, Indiana)
 
-* Wrote Embedded C++ (qt) for agricultural display units
-* Wrote UI test in Squish and Python 
-* Tested builds on Jenkins and publish builds to Artifactory
-* Troubleshoot builds in a simulator and on target
+* Wrote Embedded C++ (QT) for agricultural display units and agricultural equipment
+
 * Automated agricultural equipments movements through a given space, as well integrated with GPS computations
-* parsed agricultural data (map data) and created aggregators/consumers
-* Wrote unit test using Google Test.
+
+* Parsed agricultural data (map data) and created aggregators
+
+* Wrote UI tests in Squish and Python, as well as wrote unit tests using Google Test.
+
 * Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
 ##### Dec 2018 - May 2019 
 
 #### Student Researcher 
 
-IUPUI (Indianapolis, Indiana)
-
-* Observed weather conditions and vehicles on various highways in Indiana
+Indiana University Purdue University Indianapolis (Indianapolis, Indiana)
 
 * Wrote programs in Python with OpenCV, as well as build Window Forms in C#
+
+* Collected data on weather conditions and vehicles on various highways in Indiana
 
 ##### August 2018 - December 2018
 
 #### Student Researcher
 
-IUPUI (Indianapolis, Indiana)
+Indiana University Purdue University Indianapolis (Indianapolis, Indiana)
 
-* Researched creating convolutional neuronal networks using Python and Numpy for the purpose of car detection
+* Researched creating convolutional neuronal networks using Python and Numpy
 
 ##### May – August 2018
 
@@ -112,32 +113,24 @@ IUPUI (Indianapolis, Indiana)
 
 ### Selected Projects
 
-##### TODO
+##### May 4-11, 2018
 
-#### Venmo @ gradutation  | Personal
+#### Venmo @ Gradutation  | Personal
 
-* blah
+ A LED matrix in a graduation cap allowing people to venmo me at graduation and display any message they want. Using puppeteer.js, Firebase, Python and a Raspberry Pi.
 
-
-##### February 16-17 2019
-
-#### Memes-for-all | Hackathon
-
-* A hackathon project aimed to make (GOOD) memes accessible for all people with a device that can receive text messages. 
-
-* Running on GCP, using Firebase, Twilio, and puppeteer. 
 
 ##### June 15-16 2018
 
 #### PlentyFull | Group Project    
 
-* Build a React Native App is to help people in need find food pantries. 
+ Build a React Native App is to help people in need find food pantries. 
 
 ##### Spring 2018
 
 #### Sockets and Snakes | Group Project 
 
-*<u>Purpose</u>: * Building a C++ terminal game for my Unix programming class and to play snake over sockets using the Curses library.
+Building a C++ terminal game for my Unix programming class and to play snake over sockets using the Curses library.
 
 </div>
 
@@ -171,7 +164,7 @@ C++, C, JavaScript, Python, Bash, Matlab, CSS, Ruby/Ruby On Rails, Assembly (68H
 
 ### Technologies
 
-PIC Microcontrollers, QT, Protobuffers, Google Test, AWS, Google Cloud Platform (GCP), MQTT, Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, UDP/Sockets, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
+PIC Microcontrollers, QT, Protobuffers, Google Test, AWS, Google Cloud Platform (GCP), MQTT, Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
 
 </div>
 </div>
