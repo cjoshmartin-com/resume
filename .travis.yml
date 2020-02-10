@@ -2,7 +2,6 @@ language: node_js
 addons:
   apt_packages:
     - pandoc
-    - python
 before_install:
   - rm -rf node_modules/ 
 cache:
@@ -14,8 +13,8 @@ node_js:
   - '8'
 after_success:
   - npm run travis-deploy-once "npm run semantic-release"
-  - ./build.py --html
-  - ./build.py --pdf
+  - make html
+  - make pdf
 deploy:
   provider: pages
   skip_cleanup: true
