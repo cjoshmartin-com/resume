@@ -5,7 +5,7 @@
   "description": "verisonable resume of cjoshmartin's skills",
   "main": "index.html",
   "dependencies": {
-    "npm": "^6.3.0"
+    "npm": "^6.14.6"
   },
   "devDependencies": {
     "semantic-release": "^15.9.6",
