@@ -19,7 +19,7 @@ Josh Martin
 
 ----
 
->  <chajmart@iu.edu> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/)\
+>  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/)\
 
 ----
 
@@ -27,144 +27,97 @@ Josh Martin
 </div>
 
 <div class="row"> 
-<div class="main-content col-xs-8">
+<div class="main-content col-xs-12">
+
+### Technologies
+
+Google Cloud Platform (GCP), Vue.js, Node.js, React, React Native, Redux Toolkit, Django, Cypress, Jest, Pytest,  Postgres, Express, git, Docker, Kubernetes, Flexbox, CSS Grids
+
+### Programming Languages
+
+Python, JavaScript, CSS
 
 ### Education
 
 ##### December 2019
 
-#### Bachelor of Science in Computer Engineering from The Purdue School of Engineering and Technology
+#### Bachelor of Science in Computer Engineering from Purdue School of Engineering and Technology
 (Indianapolis, Indiana)
 
 * Minors in Computer Science and Mathematics
 
 ##### August 2016 
 
-#### Frontend Certification from Freecodecamp
+#### Frontend Certification from FreeCodeCamp
 
 ### Corporate Experience
 
+##### June 2020 - Present
 
-##### May – August 2019
+#### Junior Full Stack Engineer
 
-#### Software Engineering Intern
+*[Mirus Research](https://mirusresearch.com/)*
+    (Remote)
 
-*[Software Engineering Professionals (SEP)](https://www.sep.com/)*
-    (Carmel, Indiana)
-
-* Wrote Embedded C++ (QT) for agricultural display units and agricultural equipment
-
-* Automated agricultural equipments movements through a given space, as well integrated with GPS computations
-
-* Parsed agricultural data (map data) and created aggregators
-
-* Wrote UI tests in Squish and Python, as well as wrote unit tests using Google Test.
-
-* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
-
-##### Dec 2018 - May 2019 
-
-#### Student Researcher 
-
-Indiana University Purdue University Indianapolis (Indianapolis, Indiana)
-
-* Wrote programs in Python with OpenCV, as well as build Window Forms in C#
-
-* Collected data on weather conditions and vehicles on various highways in Indiana
-
-##### August 2018 - December 2018
-
-#### Student Researcher
-
-Indiana University Purdue University Indianapolis (Indianapolis, Indiana)
-
-* Researched creating convolutional neuronal networks using Python and Numpy
-
-##### May – August 2018
-
-#### Software Engineering Intern
-
-*[Software Engineering Professionals (SEP)](https://www.sep.com/)*
-    (Carmel, Indiana)
-    
-* Accomplished bringing a React/Node.js application to beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and particating in mobbing/pairing sessions. 
-
-* Ensured code quality by learning/practicing Test Driven Development (TDD) in the sense of writing acceptance/unit tests using a testing suite (consisting of Cypress, Mocha, Chai, Enzyme, and Istanbul) and actively participated in code reviews on Github Enterprise.
-
-* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
+* **I did stuff**
 
 
-##### July - October 2017
+##### January 2020 - Present
 
-#### Software Engineering Intern
+#### Freelance React/React Native Developer
 
-*IU School Medicine - Radiology and Imaging Sciences*
-(Indianapolis, Indiana)
+*Reprogrammed LLC*
+    (Remote)
 
-* Created value for doctors and research students, by developing applications in Ruby on Rails and Python, committing code to Github then deploying said applications using Vagrant and Puppet.
-    
-##### May 2016 - April 2017
+* **Talk about how I to delivered value to customers, took on responseablilty without given much direction. Typescript, storybook, Redux, React, React Hooks, Firebase, React native**
 
-#### Software Quality Assurance Intern
-*[CourseNetworking](http://www.thecn.com/)*
+
+##### October 2019 - May 2020
+
+#### Associate Software Engineer
+
+*[T2 Systems](https://www.t2systems.com/)*
     (Indianapolis, Indiana)
 
-* Added value by writing acceptance test using nightwatch.js and Selenium Web Driver, writing weekly reports and documentation. 
-
-### Selected Projects
-
-##### May 4-11, 2018
-
-#### Venmo @ Gradutation  | Personal
-
- A LED matrix in a graduation cap allowing people to venmo me at graduation and display any message they want. Using puppeteer.js, Firebase, Python and a Raspberry Pi.
+* **Talk about learning C# and Python stuff... Do not talk about the QA stuff**
 
 
-##### June 15-16 2018
+##### May – August 2019, May – August 2018
 
-#### PlentyFull | Group Project    
+#### Software Engineering Intern
 
- Build a React Native App is to help people in need find food pantries. 
+*[Software Engineering Professionals (SEP)](https://www.sep.com/)*
+    (Carmel, Indiana)
 
-##### Spring 2018
+* Accomplished bringing a React/Node.js application to beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and participating in mobbing/pairing sessions. 
 
-#### Sockets and Snakes | Group Project 
+* Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
-Building a C++ terminal game for my Unix programming class and to play snake over sockets using the Curses library.
+### Projects
 
-</div>
+#### Listaan
+    
+A React native and Django app hosted on google cloud plateform to make it easy to create shareable wishlists. That way family always know what do buy. Looking to add saving features, so that items can be automatically saved for and family members can help savefor items I want.
 
-<div class="sidebar col-xs-4">
+#### Venmo @ Graduation 
 
-### Community Engagement
+ A LED matrix in a graduation cap allowing people to Venmo me at graduation and display any message they want. Using Puppeteer.js, Firebase, Python, LED Matrix from adafriut and a Raspberry Pi.
 
-#### IEEE (School Club)
-**Vice President**
+#### Resume Builder
 
+ A series of makefiles and markdown files to make it easier for me to manage and make resumes in pdf and web form. I use get to make the resume verisonble and I can backtrack if I would like to add something back. The resume is auto deployed using travis-ci
 
-#### Indy Open Tech Study Hall (Meetup)
-**Organizer**
-
-* Help locate locations and sponsors for events
-* Promote events on social media and work with other Organizers
 
 ### Talks
 
-#### Computer Networking
-* Making it to class on time using MQTT (December 2018)
+* Venmo Me @ Graduation (November 2020) - Chicago Python Meetup (Chipy)
+    - Video: [https://www.youtube.com/watch?v=8JFUgAJLoQE&t=451s](https://www.youtube.com/watch?v=8JFUgAJLoQE&t=451s)
+    - Slides: [https://docs.google.com/presentation/d/1IwlfRJX9I-icJi_6HwIWWkcg6O6XergkdvrLLwo7M08/edit#slide=id.p](https://docs.google.com/presentation/d/1IwlfRJX9I-icJi_6HwIWWkcg6O6XergkdvrLLwo7M08/edit#slide=id.p)
 
-#### React.js Meetup 
+* Client-side Applications with Firebase and React.js (August 2017) - React.js Meetup
+ 
+    - Slides: [https://slides.com/joshuamartin/deck](https://slides.com/joshuamartin/deck)
 
-* Design Patterns in React (January 2018) 
-* Client-side Applications with Firebase and React.js (August 2017)
-
-### Languages
-
-C++, C, JavaScript, Python, Bash, Matlab, CSS, Ruby/Ruby On Rails, Assembly (68HC12, ARM)
-
-### Technologies
-
-PIC Microcontrollers, QT, Protobuffers, Google Test, AWS, Google Cloud Platform (GCP), MQTT, Node.js, React, Mobx, Cypress, Mocha, Chai, Enzyme, Istanbul, Firebase, MongoDB, Arduino, jQuery, Express, Hapi, Git, Docker, Virtualbox, Bootstrap, Selenium
 
 </div>
 </div>
