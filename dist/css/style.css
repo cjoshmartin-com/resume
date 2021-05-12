@@ -41,6 +41,13 @@ h1 {
     margin-bottom:5px;
 }
 
+h2 {
+    color: #757575;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
 /* Titles of categories */
 h3 {
     color: #397249;

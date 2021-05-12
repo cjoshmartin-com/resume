@@ -13,13 +13,12 @@ header-includes:
 Josh Martin
 =========================
 
+## Full Stack Developer
+
 >  <contact@cjoshmartin.com> • [github.com/cjoshmartin](https://www.github.com/cjoshmartin) • [cjoshmartin.com/linkedin](https://www.linkedin.com/in/joshua-martin-55740652/)\
 
 </div>
 
-<div style="display:grid; grid-template-columns:1fr 1fr 1fr;">
-
-<div style="max-width: 20rem;">
 ### Education
 
 #### Bachelor of Science in Computer Engineering from Purdue School of Engineering and Technology
@@ -28,29 +27,7 @@ Josh Martin
 
 (Indianapolis, Indiana)
 
-<div style="max-width: 13rem;">
 * Minors in Computer Science and Mathematics
-</div>
-
-</div>
-
-<div style="max-width: 20rem;">
-### Technologies
-
-Google Cloud Platform (GCP), Vue.js, React, Node.js, React Native, Redux, Django, Cypress, Jest, Pytest,  Postgres, Express, git, Docker, Kubernetes, Flexbox/Grids
-</div>
-
-<div style="max-width: 20rem;">
-
-### Programming Languages
-
-Python, JavaScript, C++
-
-</div>
-
-
-</div>
-
 
 
 ### Corporate Experience
@@ -119,6 +96,8 @@ Python, JavaScript, C++
 * Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
 
+<div style="display: grid;grid-template-columns: 1fr .45fr;">
+<div>
 ### Projects
 
 #### Listaan
@@ -131,18 +110,29 @@ A React native and Django app hosted on google cloud plateform to make it easy t
 
 #### Resume Builder
 
- A series of makefiles and markdown files to make it easier for me to manage and make resumes in pdf and web form. I use get to make the resume verisonble and I can backtrack if I would like to add something back. The resume is auto deployed using travis-ci
+ A series of makefiles and markdown files to make it easier for me to manage and make resumes in pdf and web form. 
+ </div>
 
 
-### Talks
+<div style="display: flex;flex-direction: column;align-self: center;justify-self: end;">
+<div style="max-width: 20rem;">
+### Technologies
 
-#### Venmo Me @ Graduation (November 2020) - Chicago Python Meetup (Chipy)
+Google Cloud Platform (GCP), Vue.js, React, Node.js, React Native, Redux, Django, Cypress, Jest, Pytest,  Postgres, Express, git, Docker, Kubernetes, Flexbox/Grids
+</div>
 
-* Video: [https://www.youtube.com/watch?v=8JFUgAJLoQE&t=451s](https://www.youtube.com/watch?v=8JFUgAJLoQE&t=451s)
-* Slides: [https://docs.google.com/presentation/d/1IwlfRJX9I-icJi_6HwIWWkcg6O6XergkdvrLLwo7M08/edit#slide=id.p](https://docs.google.com/presentation/d/1IwlfRJX9I-icJi_6HwIWWkcg6O6XergkdvrLLwo7M08/edit#slide=id.p)
+<div style="max-width: 20rem;">
 
-#### Client-side Applications with Firebase and React.js (August 2017) - React.js Meetup
- 
-* Slides: [https://slides.com/joshuamartin/deck](https://slides.com/joshuamartin/deck)
+### Programming Languages
+
+Python, JavaScript, C++
 
 </div>
+
+
+</div>
+
+</div>
+</div>
+
+
