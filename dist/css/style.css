@@ -9,13 +9,16 @@
 
 /* Whole document */
 body {
+    display: flex;
+    flex-direction: column;
     font-family: 'charterregular', "Times New Roman", Times;
-    margin: auto;
     background: #FFFFFF;
     font-size: 15px;
+    justify-content: center;
+    align-items: center;
 }
 
-h1.title {
+header {
     display: none;
 }
 em {
@@ -24,6 +27,10 @@ em {
 }
 strong {
     font-family: 'charterbold', "Times New Roman", Times;
+}
+
+#resume-body{
+    max-width: 1000px;
 }
 /* Title of the resume */
 h1 {
@@ -50,34 +57,19 @@ h3:before {
     background-color: #9CB770;
 }
 h4 {
+    margin-top: 0;
     margin-bottom: 3px;
 }
 h5 {
-    float: right;
-    width: 10rem;
     margin-top: 0;
-    /*padding-left:30px;*/
-    margin-right: 0;
-    margin-bottom: 10px;
-    text-align: left;
+    margin-bottom: 0;
+    justify-self: end;
 }
 
-h5#august-2017-present{
-
-    margin-top: 1.5rem;
-
-}
-h5#may-august-2018, h5#july---october-2017, h5#may-2016---april-2017 {
-
-   width: 13rem; 
-   margin-top: 1.7rem;
-
-}
-h5#june-15-16-2018, h5#spring-2018, h5#present {
-    margin-top: 1.5rem;
-}
-h5#august-2016, h5#december-2019 {
-    margin-top: 2rem;
+div.content-with-words {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-template-rows: 1fr;
 }
 
 /* Definitions */
@@ -112,7 +104,6 @@ a {
 a:hover, a:active {
     background-color: #397249;
     color: #FFFFFF;
-    text-decoration: none;
     text-shadow: 1px 1px 1px #333;
 }
 
@@ -120,19 +111,13 @@ a:hover, a:active {
 hr {
     color: #A6A6A6;
     margin-top:0;
-    margin-bottom:2rem;
+    margin-bottom:1rem;
 }
 
 ul {
-    padding-left: 1rem;
     margin: 0;
     margin-bottom: .5rem;
 }
 ul a {
     max-width: 2rem;
-}
-
-.sidebar {
-    border-left: 1px solid #A6A6A6;
-    height: 115rem;
 }
