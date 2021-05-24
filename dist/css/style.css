@@ -128,3 +128,11 @@ ul {
 ul a {
     max-width: 2rem;
 }
+
+
+
+@page {
+    size: size: 5.5in 8.5in;
+    font-size: 10px;
+    margin: 1cm;
+}

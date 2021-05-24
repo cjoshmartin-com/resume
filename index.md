@@ -47,7 +47,9 @@ Josh Martin
 </div>
 
 
-* **I did stuff**
+* Develop/maintaining both frontend and backend applications for State Farm (e-commerce website for state farm agents, domain registration aggregator and custom CMS for improving State Farm Agents' web presents) in  Vue, Django, Kubernetes.
+
+* Pushed initiative to improve testing across company. In the form of adding integration testing (Cypress.js) and unit testing (Pytest and Jest)
 
 <div class="content-with-words">
 
@@ -61,8 +63,9 @@ Josh Martin
 ##### January 2020 - Present
 </div>
 
-* **Talk about how I to delivered value to customers, took on responseablilty without given much direction. Typescript, storybook, Redux, React, React Hooks, Firebase, React native**
+* Without much direction was able build products clients really wanted; creating revenue generating value in Typescript, StoryBook, Figma, Express, Redux, React, Firebase, React native
 
+* Refactor legacy codebase, and was able meet deadlines on a reliably bases
 
 
 <div class="content-with-words">
@@ -75,8 +78,10 @@ Josh Martin
 </div>
 ##### October 2019 - May 2020
 </div>
-* **Talk about learning C# and Python stuff... Do not talk about the QA stuff**
 
+* Creating a hardware emulator server in C#/.Net for QA teams to run their automation test against
+
+* Wrote automation scripts in python for testing parking systems
 
 <div class="content-with-words">
 
@@ -95,9 +100,6 @@ Josh Martin
 
 * Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration & Deployment).
 
-
-<div style="display: grid;grid-template-columns: 1fr .45fr;">
-<div>
 ### Projects
 
 #### Listaan
@@ -106,33 +108,27 @@ A React native and Django app hosted on google cloud plateform to make it easy t
 
 #### Venmo @ Graduation 
 
- A LED matrix in a graduation cap allowing people to Venmo me at graduation and display any message they want. Using Puppeteer.js, Firebase, Python, LED Matrix from adafriut and a Raspberry Pi.
-
-#### Resume Builder
-
- A series of makefiles and markdown files to make it easier for me to manage and make resumes in pdf and web form. 
- </div>
-
-
-<div style="display: flex;flex-direction: column;align-self: center;justify-self: end;">
-<div style="max-width: 20rem;">
-### Technologies
-
-Google Cloud Platform (GCP), Vue.js, React, Node.js, React Native, Redux, Django, Cypress, Jest, Pytest,  Postgres, Express, git, Docker, Kubernetes, Flexbox/Grids
+ A LED matrix in a graduation cap allowing people to Venmo me @ graduation displaying their message on the hat.
 </div>
 
-<div style="max-width: 20rem;">
+
+
+<div style="display: flex;flex-direction: column;">
+<div style="">
+### Technologies
+
+Google Cloud Platform (GCP), Vue.js, React, Node.js, React Native, Redux, Typescript, Django, Cypress, Jest, Pytest,  Postgres, Express, git, Docker, Kubernetes, Flexbox/Grids
+</div>
+
+<div style="">
 
 ### Programming Languages
 
-Python, JavaScript, C++
+Python, JavaScript, CSS, C++
 
 </div>
 
 
-</div>
-
-</div>
 </div>
 
 
