@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Josh Martin - Resume</title>
+		<link media="print" rel="Alternate" href="index.pdf">
+		<link rel="shortcut icon" href="http://www.cjoshmartin.com/favicon.ico">
+		<link rel="stylesheet" href="font/charter-font.css" type="text/css" charset="utf-8" />
+<style>
+em {
+
+	font-family: 'charteritalic', "Times New Roman", Times;
+}
+strong {
+	font-family: 'charterbold', "Times New Roman", Times;
+}
+
+/* Title of the resume */
+h1 {
+}
+
+h2 {
+    color: #757575;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+/* Titles of categories */
+h3 {
+    color: #397249;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+/* There is a bar just before each category */
+h3:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 16%;
+    height: 10px;
+    background-color: #9CB770;
+}
+h4 {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-self: end;
+}
+
+div.content-with-words h4 {
+    grid-area: job-title;
+}
+
+div.content-with-words h5 {
+    grid-area: date-of-employment;
+}
+
+div.content-with-words p {
+    grid-area: employer;
+}
+
+div.content-with-words {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "job-title date-of-employment"
+    "employer .";
+
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 8rem;
+    /*font-weight: bold;*/
+}
+dd {
+    margin-left: 17%;
+    padding-bottom: .5rem;
+}
+dl {
+    margin-bottom: 0;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #397249;
+}
+a:hover, a:active {
+    background-color: #397249;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 1px #333;
+}
+
+/* Horizontal separators */
+hr {
+    color: #A6A6A6;
+    margin-top:0;
+    margin-bottom:1rem;
+}
+
+ul {
+    margin: 0;
+    margin-bottom: .5rem;
+}
+ul a {
+    max-width: 2rem;
+}
+
+
+
+@page {
+    size: size: 5.5in 8.5in;
+    font-size: 10px;
+    margin: 1cm;
+}
+
+
+</style>
+
+
+	</head>
+
+	<body
+		style="
+			display: flex;
+			flex-direction: column;
+			font-family: 'charterregular', 'Times New Roman', Times;
+			background: #FFFFFF;
+			font-size: 13px;
+			justify-content: center;
+			align-items: center;
+		"
+		>
+
+		<div 
+		style="
+			max-width: 1000px;
+		"
+			>
+			<div id="header">
+				<h1
+            style="
+                font-size: 40px;
+                color: #757575;
+                text-align:center;
+                margin-top:0;
+                margin-bottom:5px;
+            "
+            >Josh Martin</h1>
+				<blockquote>
+					<p>
+						<a href="mailto:contact@cjoshmartin.com" class="email">contact@cjoshmartin.com</a> 
+						<span>•</span> 
+						<a href="https://www.github.com/cjoshmartin">github.com/cjoshmartin</a> 
+						<span>•</span>
+						<a href="https://www.linkedin.com/in/joshua-martin-55740652/">cjoshmartin.com/linkedin</a>
+						<br />
+					</p>
+				</blockquote>
+			</div>
+
+			<h3>Education</h3>
+      <div class="content-with-words">
+			<h4>Bachelor of Science in Computer Engineering from Purdue School of Engineering and Technology</h4>
+			<h5>December 2019</h5>
+			<p>(Indianapolis, Indiana)</p>
+      </div>
+			<ul>
+				<li>Minors in Computer Science and Mathematics</li>
+			</ul>
+
+			<h3>Corporate Experience</h3>
+			<div class="content-with-words">
+				<h4>Freelance React/React Native Developer</h4>
+				<p><em>Reprogrammed LLC</em> (Remote)</p>
+				<h5>January 2020 - Present</h5>
+			</div>
+			<ul>
+				<li><p>Without much direction was able build products clients really wanted; creating revenue generating value in Typescript, StoryBook, Figma, Express, Redux, React, Firebase, React native</p></li>
+				<li><p>Refactor legacy codebases, and was able meet deadlines on a reliably bases</p></li>
+
+        <li><p>Modernized local development and dependency management by implementing docker/docker-compose and CI/CD</p></li>
+			</ul>
+
+			<div class="content-with-words">
+				<h4>Full Stack Engineer</h4>
+				<p>
+            <em>
+                <a href="https://mirusresearch.com/">Mirus Research</a>
+            </em> 
+            <span>(Remote)</span>
+        </p>
+				<h5>June 2020 - July 2021</h5>
+			</div>
+
+			<ul>
+				<li>
+            Develop/maintaining both frontend and backend applications for State Farm (e-commerce website for state farm agents, domain registration aggregator and custom CMS for improving State Farm Agents’ web presents) in Vue, Django, Celery, Redis, and Kubernetes.
+        </li>
+        <li>
+            Pushed initiative to improve testing across company. In the form of adding integration testing (Cypress.js) and unit testing (Pytest and Jest)
+        </li>
+			</ul>
+
+			<div class="content-with-words">
+				<h4 id="associate-software-engineer">Associate Software Engineer</h4>
+				<p><em><a href="https://www.t2systems.com/">T2 Systems</a></em> (Indianapolis, Indiana)</p>
+				<h5 id="october-2019---may-2020">October 2019 - May 2020</h5>
+			</div>
+			<ul>
+				<li><p>Created a hardware emulator API for the QA teams to run their automation test against in C#</p></li>
+				<li><p>Wrote automation scripts and developer tools in Python for testing parking systems and web applications</p></li>
+			</ul>
+			<div class="content-with-words">
+				<h4 id="software-engineering-intern">Software Engineering Intern</h4>
+				<p><em><a href="https://www.sep.com/">Software Engineering Professionals (SEP)</a></em> (Carmel, Indiana)</p>
+				<h5>May – August 2019, 2018</h5>
+			</div>
+			<ul>
+				<li><p>Accomplished bringing a React/Node.js application to beta by implementing a state manager (MobX), writing components for use in application, then creating feature toggles to give beta users the right permissions to each new feature and participating in mobbing/pairing sessions.</p></li>
+				<li><p>Engaged in agile practices (Sprint Planning, Backlog Grooming, Continuous Integration &amp; Deployment).</p></li>
+			</ul>
+
+			<h3>Projects</h3>
+			<h4>Accounter</h4>
+			<p>A Django, Celery application to speed up the process of tax preparation for CPAs. Hosted using Dokku and AWS. Designed in Figma.</p>
+			<h4>Listaan</h4>
+			<p>A React native and Django app hosted on Google Cloud Platform to make it easy to create shareable wishlists with family and friends. Hoping to add features for purchase aggregation.</p>
+			<h4>Venmo @ Graduation</h4>
+			<p>A LED screen and a Raspberry PI in my graduation cap. Allowing people to Venmo me @ graduation then their message would display on my graduation cap.</p>
+
+		<div style="display: flex;flex-direction: column;">
+			<section>
+				<h3>Skills</h3>
+				<p> JavaScript, Redux, Typescript, CSS, Flexbox/Grids, Figma, Python, Django, Postgres, git, C++, Go, Google Cloud Platform/AWS, Docker, Kubernetes, CI/CD</p>
+			</section>
+		</div>
+		</div>
+
+
+	</body>
+</html>
