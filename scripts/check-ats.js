@@ -5,10 +5,8 @@ const pdfParse = require('pdf-parse');
 const PDF_PATH = path.resolve(__dirname, '..', 'index.pdf');
 
 const REQUIRED_SECTIONS = ['Experience', 'Education'];
-const REQUIRED_CONTACT_PATTERNS = [
-	{ label: 'email address', pattern: /contact@cjoshmartin\.com/ },
-	{ label: 'phone number', pattern: /\d{3}[).\-\s]?\d{3}[.\-]?\d{4}/ },
-];
+const REQUIRED_EMAIL_PATTERN = /contact@cjoshmartin\.com/;
+const REQUIRED_PHONE_DIGITS = '13176528413';
 
 // Each entry's title must read before its employer, matching the visual
 // top-to-bottom order of the .content-with-words grid layout.
@@ -40,10 +38,15 @@ async function main() {
 		}
 	}
 
-	for (const { label, pattern } of REQUIRED_CONTACT_PATTERNS) {
-		if (!pattern.test(text)) {
-			failures.push(`Missing expected ${label} in extracted text`);
-		}
+	if (!REQUIRED_EMAIL_PATTERN.test(text)) {
+		failures.push('Missing expected email address in extracted text');
+	}
+
+	// Compare digits only so PDF-extraction spacing/punctuation quirks
+	// around parentheses and dashes can't cause a false negative.
+	const digitsOnly = text.replace(/\D/g, '');
+	if (!digitsOnly.includes(REQUIRED_PHONE_DIGITS)) {
+		failures.push('Missing expected phone number in extracted text');
 	}
 
 	for (const { title, employer } of JOB_ENTRIES) {
