@@ -4,17 +4,14 @@
   "version": "0.0.0-development",
   "description": "verisonable resume of cjoshmartin's skills",
   "main": "index.html",
-  "dependencies": {
-    "npm": "^6.3.0"
-  },
   "devDependencies": {
-    "semantic-release": "^15.9.6",
-    "travis-deploy-once": "^5.0.2"
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^23.11.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "travis-deploy-once": "travis-deploy-once",
-    "semantic-release": "semantic-release"
+    "build:pdf": "node scripts/print-pdf.js",
+    "check:ats": "node scripts/check-ats.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/cjoshmartin-com/resume/issues"
   },
-  "homepage": "https://github.com/cjoshmartin-com/resume#readme"
+  "homepage": "https://github.com/cjoshmartin-com/resume#readme",
+  "allowScripts": {
+    "puppeteer@23.11.1": true
+  }
 }
